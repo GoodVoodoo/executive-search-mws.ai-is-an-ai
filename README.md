@@ -29,7 +29,7 @@ If you found someone abusing our subdomain and breaking our policies, create an 
 
 Alternatively,
 
-**Email**: [abuse@is-an-ai.dev](mailto:abuse@is-an-ai.dev)
+**Email**: [abuse@is-an-ai.dev](mailto:abuse@is-an-ai.dev)<br>
 **Webpage**: [abuse.is-an-ai.dev](https://abuse.is-an-ai.dev)
 
 ### ⚖️ Acceptable Use Policy & Legal Disclaimer
