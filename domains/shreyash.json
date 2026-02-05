@@ -1,17 +1,34 @@
 {
-    "user": {
-        "username": "ShreyashTailor"
+  "user": {
+    "username": "ShreyashTailor"
+  },
+  "description": {
+    "purpose": "Portfolio Site"
+  },
+  "subdomain": "shreyash",
+  "records": [
+    {
+      "type": "CNAME",
+      "name": "shreyash",
+      "value": "shreyashtailor.github.io",
+      "proxied": false
     },
-    "description": {
-        "purpose": "Portfolio Site"
+    {
+      "type": "MX",
+      "name": "shreyash",
+      "target": "mx1.improvmx.com",
+      "priority": 10
     },
-    "subdomain": "shreyash",
-    "records": [
-        {
-            "type": "CNAME",
-            "name": "shreyash",
-            "value": "shreyashtailor.github.io",
-            "proxied": false
-        }
-    ]
+    {
+      "type": "MX",
+      "name": "shreyash",
+      "target": "mx2.improvmx.com",
+      "priority": 20
+    },
+    {
+      "type": "TXT",
+      "name": "shreyash",
+      "value": "v=spf1 include:spf.improvmx.com ~all"
+    }
+  ]
 }
